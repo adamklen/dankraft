@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "dankraft:thcblock" }
+    ],
+    "inventory": [
+      { "model": "dankraft:thcblock" }
+    ]
+  }
+}
